@@ -114,7 +114,7 @@ Repository Structure
 notebook/ – Jupyter Notebook containing analysis
 https://github.com/FaithGicheru/DiabetesPrediction/blob/main/diabetes.ipynb
 
-data/ – Aviation accident dataset
+data/ – Diabetes dataset
 
 presentation/ – Non-technical presentation slides
 https://github.com/FaithGicheru/DiabetesPrediction/blob/main/Presentation3.pdf
