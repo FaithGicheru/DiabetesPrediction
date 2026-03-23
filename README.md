@@ -112,6 +112,7 @@ Recommendations
 Repository Structure
 
 notebook/ – Jupyter Notebook containing analysis
+https://github.com/FaithGicheru/DiabetesPrediction/blob/main/diabetes.ipynb
 
 data/ – Aviation accident dataset
 
@@ -119,5 +120,5 @@ presentation/ – Non-technical presentation slides
 
 dashboard/ – Interactive dashboard
 
-Links
+
 
