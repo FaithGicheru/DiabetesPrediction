@@ -120,6 +120,7 @@ presentation/ – Non-technical presentation slides
 https://github.com/FaithGicheru/DiabetesPrediction/blob/main/Presentation3.pdf
 
 dashboard/ – Interactive dashboard
+https://public.tableau.com/authoring/PatientfactorsvsDiabetesoutcome/Dashboard1#1
 
 
 
