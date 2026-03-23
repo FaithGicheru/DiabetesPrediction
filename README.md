@@ -117,6 +117,7 @@ https://github.com/FaithGicheru/DiabetesPrediction/blob/main/diabetes.ipynb
 data/ – Aviation accident dataset
 
 presentation/ – Non-technical presentation slides
+https://github.com/FaithGicheru/DiabetesPrediction/blob/main/Presentation3.pdf
 
 dashboard/ – Interactive dashboard
 
